@@ -98,18 +98,8 @@ The Trickster has 7 main modules:
 
 ## Citation
 
-Please cite our [paper](https://aclanthology.org/2021.acl-demo.43.pdf) if you use this toolkit:
+Please cite our [paper](https:papername) if you use this toolkit:
 
-```
-@inproceedings{zeng2020The Trickster,
-  title={{The Trickster: An open-source textual adversarial attack toolkit}},
-  author={Zeng, Guoyang and Qi, Fanchao and Zhou, Qianrui and Zhang, Tingji and Hou, Bairu and Zang, Yuan and Liu, Zhiyuan and Sun, Maosong},
-  booktitle={Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations},
-  pages={363--371},
-  year={2021},
-  url={https://aclanthology.org/2021.acl-demo.43},
-  doi={10.18653/v1/2021.acl-demo.43}
-}
 ```
 
 ## Authors
